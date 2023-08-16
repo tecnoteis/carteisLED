@@ -12,3 +12,4 @@ A tira de LEDs conéctase segundo o esquema que podes ver no cartafol "Documenta
 ![cableadoLetraE](https://github.com/tecnoteis/carteisLED/assets/126872606/d5cce52f-a4be-45d2-9d9b-ae39d889e4ff)
 
 
+Cada letra ten un burato para a entrada dos cables e outro para a saída, e as tiras LED están colocadas tendo en conta a entrada e saída.
