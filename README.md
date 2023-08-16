@@ -1,4 +1,4 @@
-# carteisLED
+# Carteis LED 
 Repositorio cos deseños dos carteis feitos con tiras LED
 Neste repo subiremos a información para fabricar os carteis que deseñamos no IES de Teis desde decembro de 2022.
 
