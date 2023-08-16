@@ -17,7 +17,10 @@ Cada letra ten un burato para a entrada dos cables e outro para a saída, e as t
 A tapa das letras tamén está en Onshape, e poden ser cortadas en metacrilato traslúcido coa cortadora láser ou poden ser impresas en 3D en plástico branco ou traslúcido. Neste caso recomendamos cambiar o deseño das letras para que o encaixe sexa de 1 mm e non de 3 mm , que é o grosor do metacrilato. Con tapas de PLA de 1 mm ou menos, a luz dos LEDs queda ben.
 No cartafol "Titoriais" tedes o titorial para modificar os deseños das letras.
 Para a base utilizamos un deseño de caixas, con encaixes tipo dedo, obtido da web makercase.com. Utilizamos DM de 3mm e o tamaño necesario para soportar as letras.
-![baseCartel](https://github.com/tecnoteis/carteisLED/assets/126872606/60c58b1f-a5e9-4fbc-a1c4-29c80dca4c95)
+
+![baseCartel](https://github.com/tecnoteis/carteisLED/assets/126872606/b7c1ad6e-1371-47f6-84dd-89f3e27168e1)
+
+
 
 Carteis con mensaxe
 
@@ -27,6 +30,7 @@ Como colaboración co grupo de Igualdade do IES de Teis elaboramos dous modelos 
 A caixa de DM creámola na web makercase.com e cortámola coa láser e as caixas de cartón son caixas de portátiles edixgal pintadas e cortadas coa láser.
 A electrónica ten o mesmo esquema que o cartel do IES de Teis, pero está pegada a unha base rectángular, tal como podes ver na imaxe.
 ![panelLED](https://github.com/tecnoteis/carteisLED/assets/126872606/532e0bc1-bf5f-4c8e-8691-84145f515a18)
+
 A alimentación pode ser con baterías recargables 18650 ou cunha fonte de alimentación conectada á placa Arduino.
 Nun dos carteis utilizamos un powerbank conectado como nos mClons: https://tecnoloxia.org/mclon/alimentacion/powerbank/
 
