@@ -33,6 +33,5 @@ A electrónica ten o mesmo esquema que o cartel do IES de Teis, pero está pegad
 A alimentación pode ser con baterías recargables 18650 ou cunha fonte de alimentación conectada á placa Arduino.
 Nun dos carteis utilizamos un powerbank conectado como nos mClons: https://tecnoloxia.org/mclon/alimentacion/powerbank/
 
-
-
+O programa que fai que a tira de LED faga distintos xogos de cores e intensidades é unha modificación do exemplo incluido na biblioteca de Adafruit para as tiras de LED Neopixel. Podes descargar aquí a biblioteca para instalala no IDE de Arduino e o programa de exemplo, aínda que xa aparece despois de instalar a biblioteca. No programa só tes que modificar o pin no que está conectado o pin data da tira de LED e o número total de LED da tira. Despois podes xogar co brillo ou co que queiras.
 
