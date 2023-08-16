@@ -18,3 +18,18 @@ A tapa das letras tamén está en Onshape, e poden ser cortadas en metacrilato t
 No cartafol "Titoriais" tedes o titorial para modificar os deseños das letras.
 Para a base utilizamos un deseño de caixas, con encaixes tipo dedo, obtido da web makercase.com. Utilizamos DM de 3mm e o tamaño necesario para soportar as letras.
 ![baseCartel](https://github.com/tecnoteis/carteisLED/assets/126872606/60c58b1f-a5e9-4fbc-a1c4-29c80dca4c95)
+
+Carteis con mensaxe
+
+Como colaboración co grupo de Igualdade do IES de Teis elaboramos dous modelos de carteis, unha caixa de DM para o espazo de reunión do grupo e outro modelo con electrónica móbil, que servira para múltiples mensaxes.
+![carteisAcesos](https://github.com/tecnoteis/carteisLED/assets/126872606/829bf531-d928-40c7-8de9-f0dda3e5335d) ![inteirosAcesp](https://github.com/tecnoteis/carteisLED/assets/126872606/e53344ad-6c52-4df5-b939-6e4d4b0454b5)
+
+A caixa de DM creámola na web makercase.com e cortámola coa láser e as caixas de cartón son caixas de portátiles edixgal pintadas e cortadas coa láser.
+A electrónica ten o mesmo esquema que o cartel do IES de Teis, pero está pegada a unha base rectángular, tal como podes ver na imaxe.
+![panelLED](https://github.com/tecnoteis/carteisLED/assets/126872606/532e0bc1-bf5f-4c8e-8691-84145f515a18)
+A alimentación pode ser con baterías recargables 18650 ou cunha fonte de alimentación conectada á placa Arduino.
+Nun dos carteis utilizamos un powerbank conectado como nos mClons: https://tecnoloxia.org/mclon/alimentacion/powerbank/
+
+
+
+
