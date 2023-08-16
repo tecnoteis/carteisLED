@@ -21,7 +21,6 @@ Para a base utilizamos un deseño de caixas, con encaixes tipo dedo, obtido da w
 ![baseCartel](https://github.com/tecnoteis/carteisLED/assets/126872606/b7c1ad6e-1371-47f6-84dd-89f3e27168e1)
 
 
-
 Carteis con mensaxe
 
 Como colaboración co grupo de Igualdade do IES de Teis elaboramos dous modelos de carteis, unha caixa de DM para o espazo de reunión do grupo e outro modelo con electrónica móbil, que servira para múltiples mensaxes.
